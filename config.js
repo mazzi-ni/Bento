@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Reddit',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://elearning.unimib.it/course/index.php?categoryid=7777',
 		},
 		{
 			id: '6',
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'DisneyPlus',
+					link: 'https://www.disneyplus.com/it-it/home',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Maps',
+					link: 'https://classic-maps.openrouteservice.org/directions?n1=46.313739&n2=8.261032&n3=11&a=46.313774,8.261029,null,null&b=2&l1=1&c=0&k1=en-US&k2=km',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Koomot',
+					link: 'https://www.komoot.it/discover',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Notion',
+					link: 'https://www.notion.so',
 				},
 			],
 		},
