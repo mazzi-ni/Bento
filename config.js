@@ -11,10 +11,10 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
-	imageBackground: false,
+	name: 'Mazzi',
+	imageBackground: true,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Memorigi',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://memorigi.app/today',
 		},
 		{
 			id: '4',
@@ -83,24 +83,24 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
+			name: 'Spoty',
 			icon: 'headphones',
 			link: 'https://open.spotify.com',
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'Route',
+			icon: 'maps',
+			link: 'https://classic-maps.openrouteservice.org/directions?n1=46.313739&n2=8.261032&n3=11&a=46.313774,8.261029,null,null&b=2&l1=1&c=0&k1=en-US&k2=km',
 		},
 		{
 			id: '3',
