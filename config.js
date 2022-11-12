@@ -52,10 +52,10 @@ const CONFIG = {
 
 	firstButtonsContainer: [
 		{
-			id: '4',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			id: '1',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
 			id: '2',
@@ -70,15 +70,15 @@ const CONFIG = {
 			link: 'https://memorigi.app/today',
 		},
 		{
-			id: '1',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			id: '4',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/',
 		},
 		{
 			id: '5',
 			name: '- UNI -',
-			icon: 'school',
+			icon: 'graduation-cap',
 			link: 'https://elearning.unimib.it/course/index.php?categoryid=8695',
 		},
 		{
@@ -135,35 +135,31 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
-			id: '1',
-			links: [
-				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-			],
-		},
-		{
 			icon: 'coffee',
-			id: '2',
+			id: '1',
 			links: [
 				{
 					name: 'DisneyPlus',
 					link: 'https://www.disneyplus.com/it-it/home',
 				},
+				{
+					name: 'Notion',
+					link: 'https://notion.so',
+				},
+				{
+					name: 'Spotify',
+					link: 'https://open.spotify.com/',
+				},
+				{
+					name: 'Mail - Uni',
+					link: 'https://mail.google.com/mail/u/1/#inbox',
+				},
+			],
+		},
+		{
+			icon: 'map',
+			id: '2',
+			links: [
 				{
 					name: 'Maps',
 					link: 'https://classic-maps.openrouteservice.org/directions?n1=46.313739&n2=8.261032&n3=11&a=46.313774,8.261029,null,null&b=2&l1=1&c=0&k1=en-US&k2=km',
@@ -173,8 +169,12 @@ const CONFIG = {
 					link: 'https://www.komoot.it/discover',
 				},
 				{
-					name: 'Notion',
-					link: 'https://www.notion.so',
+					name: 'GoogleMaps',
+					link: 'https://google.com/maps',
+				},
+				{
+					name: 'TheCrag',
+					link: 'https://www.thecrag.com/'
 				},
 			],
 		},
