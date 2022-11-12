@@ -52,7 +52,7 @@ const CONFIG = {
 
 	firstButtonsContainer: [
 		{
-			id: '1',
+			id: '4',
 			name: 'Github',
 			icon: 'github',
 			link: 'https://github.com/',
@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/mail/u/0/#inbox',
 		},
 		{
 			id: '3',
@@ -70,16 +70,16 @@ const CONFIG = {
 			link: 'https://memorigi.app/today',
 		},
 		{
-			id: '4',
+			id: '1',
 			name: 'Calendar',
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://elearning.unimib.it/course/index.php?categoryid=7777',
+			name: '- UNI -',
+			icon: 'school',
+			link: 'https://elearning.unimib.it/course/index.php?categoryid=8695',
 		},
 		{
 			id: '6',
