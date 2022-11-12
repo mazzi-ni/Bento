@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: '- Mazzi -',
+	name: 'Mazzi',
 	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
