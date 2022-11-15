@@ -74,16 +74,8 @@
 		<script>
 			lucide.createIcons();
 			var r = document.querySelector(':root');
-			var d = document.getElementsByClassName("withImageBackground");
-			var num = Math.floor(Math.random() * 12);
-			if(num == 3) {
-				const custom_style = { "background-position":"top" }
-				Object.assign(d.style,custum_style);
-			} else {
-				const custom_style = { "background-position":"center" }
-				Object.assign(d.style,custum_style);
-			}
-			r.style.setProperty('--imgbg', `url(assets/${num}.jpg)`);
+			
+			r.style.setProperty('--imgbg', `url(assets/${Math.floor(Math.random() * 12)}.jpg)`);
 			
 		</script>
 	</body>
