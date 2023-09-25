@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: '- UNI -',
 			icon: 'graduation-cap',
-			link: 'https://elearning.unimib.it/course/index.php?categoryid=8695',
+			link: 'https://elearning.unimib.it/course/index.php?categoryid=10380',
 		},
 		{
 			id: '6',
