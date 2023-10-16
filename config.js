@@ -55,13 +55,13 @@ const CONFIG = {
 			id: '1',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://corsproxy.io/?https://calendar.google.com/calendar/r',
 		},
 		{
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.google.com/mail/u/0/#inbox',
+			link: 'https://corsproxy.io/?https://mail.google.com/mail/u/0/#inbox',
 		},
 		{
 			id: '3',
@@ -73,19 +73,19 @@ const CONFIG = {
 			id: '4',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://corsproxy.io/?https://github.com/',
 		},
 		{
 			id: '5',
 			name: '- UNI -',
 			icon: 'graduation-cap',
-			link: 'https://elearning.unimib.it/course/index.php?categoryid=10380',
+			link: 'https://corsproxy.io/?https://elearning.unimib.it/course/index.php?categoryid=10380',
 		},
 		{
 			id: '6',
 			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://youtube.com/',
+			link: 'https://corsproxy.io/?https://youtube.com/',
 		},
 	],
 
@@ -94,7 +94,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Spoty',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'https://corsproxy.io/?https://open.spotify.com',
 		},
 		{
 			id: '2',
@@ -106,7 +106,7 @@ const CONFIG = {
 			id: '3',
 			name: 'bot',
 			icon: 'bot',
-			link: 'https://discord.com/app',
+			link: 'https://corsproxy.io/?https://discord.com/app',
 		},
 		{
 			id: '4',
@@ -124,7 +124,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Figma',
 			icon: 'figma',
-			link: 'https://figma.com/',
+			link: 'https://corsproxy.io/?https://figma.com/',
 		},
 	],
 
@@ -140,19 +140,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'DisneyPlus',
-					link: 'https://www.disneyplus.com/it-it/home',
+					link: 'https://corsproxy.io/?https://www.disneyplus.com/it-it/home',
 				},
 				{
 					name: 'Notion',
-					link: 'https://notion.so',
+					link: 'https://corsproxy.io/?https://notion.so',
 				},
 				{
 					name: 'Spotify',
-					link: 'https://open.spotify.com/',
+					link: 'https://corsproxy.io/?https://open.spotify.com/',
 				},
 				{
 					name: 'Mail - Uni',
-					link: 'https://mail.google.com/mail/u/1/#inbox',
+					link: 'https://corsproxy.io/?https://mail.google.com/mail/u/1/#inbox',
 				},
 			],
 		},
@@ -166,15 +166,15 @@ const CONFIG = {
 				},
 				{
 					name: 'Koomot',
-					link: 'https://www.komoot.it/discover',
+					link: 'https://corsproxy.io/?https://www.komoot.it/discover',
 				},
 				{
 					name: 'GoogleMaps',
-					link: 'https://google.com/maps',
+					link: 'https://corsproxy.io/?https://google.com/maps',
 				},
 				{
 					name: 'TheCrag',
-					link: 'https://www.thecrag.com/'
+					link: 'https://corsproxy.io/?https://www.thecrag.com/'
 				},
 			],
 		},
